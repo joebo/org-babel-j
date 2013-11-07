@@ -7,12 +7,12 @@ To install:
 Copy ob-j.el to your lisp\org folder
 Add to .emacs
 
-(org-babel-do-load-languages
+    (org-babel-do-load-languages
       'org-babel-load-languages
       '((emacs-lisp . t)
         (j . t)))
 
-(setq j-program-name "C:/.../j64-801/bin/jconsole.exe")
+    (setq j-program-name "C:/.../j64-801/bin/jconsole.exe")
 
 See: http://orgmode.org/worg/org-contrib/babel/
 
