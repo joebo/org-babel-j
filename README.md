@@ -18,6 +18,6 @@ See: http://orgmode.org/worg/org-contrib/babel/
 
 Adds support for J (http://jsoftware.com/) to org-babel
 
-Screencast: http://youtu.be/lb4zR-zl2a8, full res: https://dl.dropboxusercontent.com/u/20783971/org-j.mp4
+Screencast: http://youtu.be/lb4zR-zl2a8, full res: https://www.dropbox.com/s/evs1bqeo8q01god/org-j.mp4
 
 
